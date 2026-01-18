@@ -1,2 +1,0 @@
-this project explores how machine learning can be used to predict the number of jail days a defendant might receive based on case characteristics 
-the model predicts jails (sentence length in days / years ) and analyzes which features most influence sentencing outcomes
